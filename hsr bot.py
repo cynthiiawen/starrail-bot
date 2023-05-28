@@ -53,10 +53,5 @@ async def on_message(message):
     elif message.content.startswith('!character trailblazer physical'):
         await message.channel.send(file=discord.File('tb phys info.webp'))
     #warp tracking
-    if message.content.startswith() 
-
-
-#login to star rail? 
- 
-client.run('MTA1NjQ4MzQwNTg3NDg2MDA1NA.Gq48bW.Hn3GOP-fHp3H55s5cJ0st9uw09hZjc5RoamM0E')
+    if message.content.startswith(
 
